@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="left">I am a passionate professional in the cryptocurrency space, playing key roles in various crypto projects, particularly related to real-world assets. 
+ 
+My goal is to make the web3 space safer, using my knowledge and experience for the benefit of all its users. 
 
-<!--
-**arkanoeth/arkanoeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a strong background in engineering and self-taught software development, with expertise in Solidity, Python, and Rust, enabling me to innovate and contribute to progress in the dynamic world of digital currencies. 
 
-Here are some ideas to get you started:
+Above all, I have a profound passion for continuing to learn and grow every day.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+                   
+<h2>Languages and Tools</h2> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,solidity,rust,sqlite,docker,r,matlab,postman,cpp,ts,&perline=12" />
+  </a>
+</p>
+
+<br />
+
+<p>&nbsp;<a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth" /></a>
+<a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arkanoeth&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Arkanoeth" /></a>
+</p> 
+<br>
+<br />
+
+<p><a href="https://github.com/Arkanoeth#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Arkanoeth&theme=nightowl#gh-dark-mode-only" alt="Arkanoeth"/></a>
+<a href="https://github.com/Arkanoeth#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Arkanoeth&theme=vue#gh-light-mode-only" alt="Arkanoeth"/></a></p>
+<br/>
+<br />
+
+
